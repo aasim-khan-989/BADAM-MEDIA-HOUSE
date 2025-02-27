@@ -1,7 +1,0 @@
-{
-  "homepage": " https://github.com/aasim-khan-989/BADAM-MEDIA-HOUSE.git",
-  "scripts": {
-    "predeploy": "vite build",
-    "deploy": "gh-pages -d dist"
-  }
-}
